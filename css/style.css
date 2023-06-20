@@ -1,0 +1,76 @@
+.image{
+    background-image: url(../images/2background.jpg  );
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    background-attachment:fixed ;
+}
+body{background-color: black;}
+.a1{text-align: center;
+    color: white;
+    letter-spacing: 1px;
+    text-shadow: 100px;
+    font-family: Copperplate Gothic Bold;
+    
+}
+
+.a2{text-align: center;
+    color:black;
+    letter-spacing: 1px;
+    background-color: white; 
+    font-family: Copperplate Gothic Bold;  
+    
+}
+.a3{text-align: center;
+    color:black;
+    letter-spacing: 1px;
+    background-color: rgba(255, 255, 255, 0.964);   
+    font-family: Copperplate Gothic Bold;  
+}
+
+/* buy page */
+
+
+.a4{text-align: left;
+    color: white;
+    letter-spacing: 1px;
+    text-shadow: 100px;
+    font-family: Copperplate Gothic Bold;
+}
+.a5{text-align: center;
+    color: white;
+    letter-spacing: 1px;
+    text-shadow: 100px;
+    font-family: Copperplate Gothic Bold;
+}
+.a6{text-align: center;
+    color: white;
+   
+    text-shadow: 100px;
+    font-family: Copperplate Gothic Bold;
+}
+.a6{text-align: center;
+    color: white;
+   
+    text-shadow: 100px;
+    font-family: Copperplate Gothic Bold;
+}
+.a7{text-align: center;
+text-align: justify;}
+
+/* lern more styling */
+
+.l1 h1{text-align: left;
+color: white;
+background-color:rgb(25, 24, 24) ;}
+
+.l2{text-align: left;
+    font-family:Copperplate Gothic Bold ;
+}
+.l1 p{text-align: center;
+    color: white;
+font-family:Copperplate Gothic Bold ;}
+
+.l1 h2{text-align: left;
+color: white;}
